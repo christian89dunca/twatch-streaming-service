@@ -1,0 +1,3 @@
+[submodule "client"]
+	path = client
+	url = /Users/christiand.dunca/Desktop/React-projects/streams/client

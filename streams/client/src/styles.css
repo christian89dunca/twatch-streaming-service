@@ -1,0 +1,103 @@
+.center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 80vh;
+}
+
+.btn-a {
+  display: flex;
+  justify-content: center;
+  width: 250px;
+}
+
+.b {
+  display: flex;
+  justify-content: space-evenly;
+  align-self: center;
+  padding-right: 20px;
+}
+
+.f {
+}
+
+.g {
+  padding-right: 23px;
+}
+
+.navbar-nav {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  width: 100%;
+}
+
+.btn-div {
+  display: flex;
+  justify-content: center;
+}
+
+.go-live {
+  display: flex;
+}
+
+.form-group {
+  padding: 20px;
+}
+
+.card-style {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.card-body {
+  width: 50%;
+}
+
+.video-placeholder,
+.video-placeholder-lg {
+  display: flex;
+  justify-content: center;
+  background: url("../src/assets/videoplace.png") center;
+  background-size: cover;
+  width: 30vw;
+  height: 30vh;
+}
+
+.video-placeholder-lg {
+  width: 60vw;
+  height: 50vh;
+  margin: 50px auto;
+}
+
+h3,
+h4 {
+  text-align: center;
+  padding: 30px;
+}
+
+.ed-btns {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.edit-delete {
+  margin-left: 10px;
+  display: flex;
+  justify-content: center;
+  justify-self: center;
+  align-self: center;
+}
+
+/* .modal-background {
+  background: rgba(0, 0, 0, 0.8);
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+} */
