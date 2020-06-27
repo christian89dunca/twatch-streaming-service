@@ -59,8 +59,7 @@
   width: 50%;
 }
 
-.video-placeholder,
-.video-placeholder-lg {
+.video-placeholder {
   display: flex;
   justify-content: center;
   background: url("../src/assets/videoplace.png") center;
@@ -70,6 +69,8 @@
 }
 
 .video-placeholder-lg {
+  display: flex;
+  justify-content: center;
   width: 60vw;
   height: 50vh;
   margin: 50px auto;
